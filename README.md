@@ -17,7 +17,6 @@
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logoColor=F05032)
-![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
 
 
   <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=juliaeduarda-rg&show_icons=true&theme=midnight-purple"/>
