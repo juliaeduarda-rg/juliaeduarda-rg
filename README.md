@@ -1,7 +1,7 @@
 <h1 align="center"> Oiee! Bem-vindos!</h1>
 
 ![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=juliaeduarda-rg&repo=juliaeduarda-rg&countColor=darkgreen)
-
+![Capa](https://github.com/juliaeduarda-rg/juliaeduarda-rg/blob/main/Capa%20do%20Facebook%20Salão%20de%20Beleza%20Simples%20Amarelo.png)
 
 <h2>MEUS CONTATOS:</h2>
 
