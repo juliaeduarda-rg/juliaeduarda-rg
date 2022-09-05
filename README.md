@@ -8,6 +8,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia--gomes/) 
 [![Kaggle](https://img.shields.io/badge/kaggle-blue?style=for-the-badge)](https://www.kaggle.com/jliaeduarda)
 
+
+<h1>Atualmente cursando Análise e Desenvolvimento de Sistemas, facinada por automação e inteligência atificial.<h1>
+
 <h2>Conhecimentos / Estudando </h2>
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
