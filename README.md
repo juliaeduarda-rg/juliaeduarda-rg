@@ -6,7 +6,6 @@
 <h2>MEUS CONTATOS:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia--gomes/) 
-[![Gmail Badge ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliaeduarda6780@gmail.com)
 [![Kaggle](https://img.shields.io/badge/kaggle-blue?style=for-the-badge&logo=appveyor)](https://www.kaggle.com/jliaeduarda)
 
 <h2>Conhecimentos / Estudando </h2>
