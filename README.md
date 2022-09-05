@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1C6758?style=for-the-badge)
 
-  <img  align="left"  width="800px" src="https://github-readme-stats.vercel.app/api?username=juliaeduarda-rg&show_icons=true&theme=gruvbox_light"/>
+  <img  align="left"  width="600px" src="https://github-readme-stats.vercel.app/api?username=juliaeduarda-rg&show_icons=true&theme=gruvbox_light"/>
   <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaeduarda-rg&hide=shell&theme=gruvbox_light"/>
 
 
