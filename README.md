@@ -14,8 +14,8 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logoColor=F05032)
 ![SQL](https://img.shields.io/badge/SQL-9cf?style=for-the-badge)
 
-  <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=juliaeduarda-rg&show_icons=true&theme=midnight-purple"/>
-  <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaeduarda-rg&layout=compact&hide=shell&theme=midnight-purple"/>
+  <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=juliaeduarda-rg&show_icons=true&theme=gruvbox_light"/>
+  <img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaeduarda-rg&hide=shell&theme=gruvbox_light"/>
 
 
 ![Snake animation](https://github.com/juliaeduarda-rg/juliaeduarda-rg/blob/output/github-contribution-grid-snake.svg)
