@@ -8,8 +8,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia--gomes/) 
 [![Kaggle](https://img.shields.io/badge/kaggle-blue?style=for-the-badge)](https://www.kaggle.com/jliaeduarda)
 
-
+<h2>✨Meu mundinho✨</h2>
 <p>Atualmente cursando Análise e Desenvolvimento de Sistemas, facinada por automação e inteligência artificial.</p>
+<p>🎲Cursando: Técnica em multimídia e estudante do Fellowship da SIRIUS educação. (primeira neounivesidade do Brasil!) </p>
+<p>🎮Linguagens: Python, Biblioteca para visualizar, tratar e utilizar modelos de machine learning.(Pandas, Sckit-learn, Plotly, Seaborn, entre outros.)</p>
+<p>🔧Ferramentas: Tableu, PowerBI e Excel. </p>
 
 <h2>Conhecimentos / Estudando </h2>
 
