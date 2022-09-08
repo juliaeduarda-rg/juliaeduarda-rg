@@ -9,7 +9,7 @@
 [![Kaggle](https://img.shields.io/badge/kaggle-blue?style=for-the-badge)](https://www.kaggle.com/jliaeduarda)
 
 
-<p>Atualmente cursando Análise e Desenvolvimento de Sistemas, facinada por automação e inteligência atificial.</p>
+<p>Atualmente cursando Análise e Desenvolvimento de Sistemas, facinada por automação e inteligência artificial.</p>
 
 <h2>Conhecimentos / Estudando </h2>
 
